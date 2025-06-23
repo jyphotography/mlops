@@ -179,3 +179,4 @@ artifacts/
 03-orchestration/mlops
 03-orchestration/mlops
 04-deployment/output/yellow_tripdata_2023-03.parquet
+05-monitoring/data/green_tripdata_2024-03.parquet
